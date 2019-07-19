@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/gajus/write-file-webpack-plugin"
+    "url": "https://github.com/zhuangya/write-file-webpack-plugin"
   },
   "keywords": [
     "webpack",
