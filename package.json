@@ -1,5 +1,5 @@
 {
-  "name": "write-file-webpack-plugin",
+  "name": "@zhuangya/write-file-webpack-plugin",
   "license": "BSD-3-Clause",
   "version": "4.4.0",
   "description": "Forces webpack-dev-server to write bundle files to the file system.",
